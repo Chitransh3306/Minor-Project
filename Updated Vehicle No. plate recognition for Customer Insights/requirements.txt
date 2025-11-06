@@ -1,6 +1,0 @@
-streamlit
-opencv-python
-easyocr
-pandas
-plotly
-ultralytics
